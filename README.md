@@ -200,10 +200,10 @@ Developing cutting-edge frontend interfaces and AI-integrated web applications t
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Summary
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ainabhinavsharma&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true&area_color=7C3AED"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ainabhinavsharma&theme=tokyonight"/>
 
 </div>
 
