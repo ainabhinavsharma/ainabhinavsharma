@@ -43,9 +43,9 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="58%">
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Animation"/>
+</div>
 
 Hello! I'm **Abhinav Sharma**, an **AI Product Developer** and **Mentor at [DBERT](https://dbert.online)**. I am deeply passionate about building scalable AI solutions and guiding the next generation of tech talent through hands-on mentorship and structured internships.
 
@@ -53,15 +53,6 @@ Hello! I'm **Abhinav Sharma**, an **AI Product Developer** and **Mentor at [DBER
 - 🎓 **Mentorship:** Actively mentoring students and professionals in AI and Software Engineering
 - 🌱 **Mission:** Bridging the gap between academic learning and industry-level AI development
 - 🚀 **Join Us:** Check out our [YouTube Channel](https://www.youtube.com/@dbert-india) and subscribe to our Internship programs!
-
-</td>
-<td valign="top" width="42%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -106,77 +97,21 @@ As a mentor, I guide interns through building production-ready applications, und
 ## 🚀 AI Products I'm Currently Building
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/ainabhinavsharma/Gayatri-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ainabhinavsharma&repo=Gayatri-AI&theme=tokyonight" alt="Gayatri AI Repo"/>
+</a>
+<a href="https://github.com/ainabhinavsharma/DBERT-LMS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ainabhinavsharma&repo=DBERT-LMS&theme=tokyonight" alt="DBERT LMS Repo"/>
+</a>
 
-#### 🧠 Gayatri-AI
+<br><br>
 
-> *AI Education Technology Platform*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-8B5CF6?style=flat-square)
-
-An intelligent educational tech platform designed to empower students and enhance learning capabilities.
-
-<br>
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ainabhinavsharma/Gayatri-AI)
-[![Visit Website](https://img.shields.io/badge/Visit_Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gayatrieducation.tech/)
-
-</td>
-<td width="50%" valign="top">
-
-#### 📚 DBERT-LMS
-
-> *Next-Generation Learning Management System*
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FullStack](https://img.shields.io/badge/FullStack-009688?style=flat-square)
-
-A scalable Learning Management System serving as the backbone for project submissions, course management, and DBERT mentorship.
-
-<br>
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ainabhinavsharma/DBERT-LMS)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 💼 DBERT Internship Portal
-
-> *Streamlined Internship Management*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-4F46E5?style=flat-square)
-
-A robust backend portal designed to handle internship applications, tracking, and onboarding for DBERT's mentorship programs.
-
-<br>
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ainabhinavsharma/Internshipportal)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌐 DigitalBlinc & SNGI.AI
-
-> *Web & AI Solutions*
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-Developing cutting-edge frontend interfaces and AI-integrated web applications to solve modern digital problems.
-
-<br>
-
-[![View Repositories](https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ainabhinavsharma?tab=repositories)
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/ainabhinavsharma/Internshipportal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ainabhinavsharma&repo=Internshipportal&theme=tokyonight" alt="Internship Portal Repo"/>
+</a>
+<a href="https://github.com/ainabhinavsharma/DigitalBlinc">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ainabhinavsharma&repo=DigitalBlinc&theme=tokyonight" alt="DigitalBlinc Repo"/>
+</a>
 
 </div>
 
