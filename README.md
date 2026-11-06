@@ -116,19 +116,19 @@ As a mentor and technical architect, I guide fellows through building scalable m
 <div align="center">
 
 <a href="https://github.com/ainabhinavsharma/Gayatri-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ainabhinavsharma&repo=Gayatri-AI&theme=tokyonight" alt="Gayatri AI Repo"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ainabhinavsharma&repo=Gayatri-AI&theme=tokyonight" alt="Gayatri AI Repo"/>
 </a>
 <a href="https://github.com/DBERT-INDIA/dbert-website-lms">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DBERT-INDIA&repo=dbert-website-lms&theme=tokyonight" alt="DBERT Platform Repo"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DBERT-INDIA&repo=dbert-website-lms&theme=tokyonight" alt="DBERT Platform Repo"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/ainabhinavsharma/DBERT-LMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ainabhinavsharma&repo=DBERT-LMS&theme=tokyonight" alt="DBERT LMS Repo"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ainabhinavsharma&repo=DBERT-LMS&theme=tokyonight" alt="DBERT LMS Repo"/>
 </a>
 <a href="https://github.com/ainabhinavsharma/Internshipportal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ainabhinavsharma&repo=Internshipportal&theme=tokyonight" alt="Internship Portal Repo"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ainabhinavsharma&repo=Internshipportal&theme=tokyonight" alt="Internship Portal Repo"/>
 </a>
 
 </div>
